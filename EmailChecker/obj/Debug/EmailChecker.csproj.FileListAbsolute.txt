@@ -1,0 +1,6 @@
+E:\github\EmailChecker\EmailChecker\bin\Debug\EmailChecker.exe.config
+E:\github\EmailChecker\EmailChecker\bin\Debug\EmailChecker.exe
+E:\github\EmailChecker\EmailChecker\bin\Debug\EmailChecker.pdb
+E:\github\EmailChecker\EmailChecker\obj\Debug\EmailChecker.csprojResolveAssemblyReference.cache
+E:\github\EmailChecker\EmailChecker\obj\Debug\EmailChecker.exe
+E:\github\EmailChecker\EmailChecker\obj\Debug\EmailChecker.pdb
